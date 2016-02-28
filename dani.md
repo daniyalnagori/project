@@ -1,3 +1,3 @@
 #my name is dani
-## my name is Abdul Moiz
+## my name is Abdul Moiz MOiz
 ### First Project
